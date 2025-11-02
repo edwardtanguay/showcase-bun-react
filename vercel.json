@@ -1,7 +1,7 @@
 {
 	"bunVersion": "1.x",
 	"installCommand": "bun install",
-	"buildCommand": "bun run build",
+	"buildCommand": "bun run build.ts",
 	"outputDirectory": "dist",
 	"routes": [
 		{
